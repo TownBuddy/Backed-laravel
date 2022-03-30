@@ -1,0 +1,1 @@
+[29-Jun-2021 13:41:17 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\NotificationController::delayRemainder() in /home/admin/public_html/townbuddy/app/Http/Controllers/NotificationController.php on line 758
